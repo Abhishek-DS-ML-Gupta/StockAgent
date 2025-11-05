@@ -1,0 +1,7 @@
+streamlit
+yfinance
+beautifulsoup4
+requests
+langchain
+pandas
+langchain_google_genai
